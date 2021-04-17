@@ -1,5 +1,0 @@
-Credentials cache: API:6CCD6684-0513-46DE-8F8E-667FFAA02268
-        Principal: ncameiri@42LISBOA.COM
-
-  Issued                Expires               Principal
-Oct 21 14:24:26 2020  Oct 22 00:24:26 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
